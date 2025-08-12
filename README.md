@@ -2,6 +2,7 @@
 
 This project uses the **World Happiness Report (WHR)** dataset to explore how socio-economic factors relate to **Negative Affect**, negative emotions experienced daily, with the goal of identifying potential mental health needs by country.  
 Through **unsupervised machine learning (KMeans clustering)**, countries are grouped based on their happiness indicators, enabling targeted recommendations for mental health organizations.
+Completed as the final project of the ML Foundations Break Through Tech fellowship course.
 
 ---
 
