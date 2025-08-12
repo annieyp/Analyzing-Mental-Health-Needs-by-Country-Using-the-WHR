@@ -80,5 +80,5 @@ The project uses the `WHR2018Chapter2OnlineData.csv` dataset, which contains:
 - **Scikit-learn** for clustering
 - **Matplotlib**, **Seaborn** for visualizations
 
-##License
+## License
 - **This project is licensed under the MIT License — see the LICENSE file for details.**
